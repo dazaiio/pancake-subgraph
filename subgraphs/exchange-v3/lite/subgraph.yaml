@@ -35,7 +35,6 @@ dataSources:
       eventHandlers:
         - event: PoolCreated(indexed address,indexed address,indexed uint24,int24,address)
           handler: handlePoolCreated
-  - kind: ethereum/contract
     name: NonfungiblePositionManager
     network: bsc
     source:
