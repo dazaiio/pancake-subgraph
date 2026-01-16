@@ -9,7 +9,7 @@ module.exports = {
     wNativeStablePoolAddress: "0x36696169c63e42cd08ce11f5deebbcebae652050",
     stableIsToken0: true,
     factoryAddress: "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865",
-    startBlock: 73590500,
+    startBlock: 75658830,
     stableCoins: [
       "0x55d398326f99059ff775485246999027b3197955", // USDT
       "0xe9e7cea3dedca5984780bafc599bd69add087d56", // BUSD
@@ -25,15 +25,15 @@ module.exports = {
       "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82", // CAKE
     ],
     nonfungiblePositionManagerAddress: "0x46a15b0b27311cedf172ab29e4f4766fbe7f4364",
-    nonfungiblePositionManagerStartBlock: 73590500,
+    nonfungiblePositionManagerStartBlock: 75658830,
     minETHLocked: 10,
   },
   masterChefV3: {
     masterChefAddress: "0x556b9306565093c855aea9ae92a594704c2cd59e",
-    startBlock: 73590500,
+    startBlock: 75658830,
   },
   predictionV2: {
-    startBlock: 73590500,
+    startBlock: 75658830,
     address: "0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA",
   },
 };
